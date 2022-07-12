@@ -31,3 +31,4 @@ A: I definitely need help making this project, and you are totally welcome to su
 
 # Changelog
 -Added and updated readme.md 
+-added folders cloud, desktop, and mobile and there corresponding readme's
